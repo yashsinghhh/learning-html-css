@@ -1,0 +1,41 @@
+ p{
+    padding: 0%;
+    display: inline-block;
+
+ }
+ body{
+    background-color: RGB(54, 107, 157);
+ }
+ .div1 {
+    text-align: center;
+    align-items: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    display: block;
+    background-color: yellowgreen;
+    position:relative;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 40%;
+    padding: 0%;
+ }
+.spritebox {
+    background-color: aqua;
+    display: inline-block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 70px;
+    padding-left: 70px;
+    margin-top: 100px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 40px;
+    height: 50px;
+    vertic
+
+}
+    
+
+
+
+
+ 
